@@ -14,7 +14,8 @@
 
 ### 成员构成？（无序）💼
 
-Xiaoyi311 ———— 创始人、工作室全能主编<br>
-HeimNad ———— 网站运营、Bug 测试、MSS 项目负责人<br>
+Xiaoyi311 ———— 前创始人、前工作室全能主编<br>
+HeimNad ———— 现管理员、网站运营、Bug 测试、MSS 项目负责人<br>
 Paimon ———— Bug 测试<br>
-David ———— Bug 测试、前端开发
+David ———— Bug 测试、MSS 后端开发
+Anschluss zeit! ———— MSS 前端开发
